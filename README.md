@@ -1,7 +1,7 @@
 # brand-style-guide
 Template for a print-ready brand style guide, using CSS grid, SASS stylesheet.
 
-## Printin
+## Printing
 Best works in Safari on OS X. As browsers have problems respecting the page breaking, you have to add a margin big enough under a cell (.grid-item) to push lower rows to next page. See _print.scss for the example.
 
 ## Cell width
