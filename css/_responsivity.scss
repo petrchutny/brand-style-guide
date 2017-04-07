@@ -1,0 +1,9 @@
+@media only screen and (max-width: 800px) {
+  // One column layout
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+  .span-6, .span-4, .span-3 {
+    grid-column: auto;
+  }
+}
